@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praptisharma28" alt="praptisharma28" /></a> </p>
 <a href="https://holopin.me/praptisharma28">link text</a>
 <a href="https://holopin.io/@praptisharma28">link text</a>
-
+[![An image of @praptisharma28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praptisharma28)](https://holopin.io/@praptisharma28)
 
 - 🔭 I’m currently working on **Django**
 
