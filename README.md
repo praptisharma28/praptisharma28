@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praptisharma28" alt="praptisharma28" /></a> </p>
-[![An image of @praptisharma28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praptisharma28)](https://holopin.io/@praptisharma28)
+(https://holopin.me/praptisharma28)](https://holopin.io/@praptisharma28)
 
 - 🔭 I’m currently working on **Django**
 
