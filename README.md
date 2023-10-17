@@ -2,7 +2,9 @@
 <h3 align="center">A Web Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praptisharma28" alt="praptisharma28" /></a> </p>
-(https://holopin.me/praptisharma28)](https://holopin.io/@praptisharma28)
+<a href="https://holopin.me/praptisharma28">link text</a>
+<a href="https://holopin.io/@praptisharma28">link text</a>
+
 
 - 🔭 I’m currently working on **Django**
 
