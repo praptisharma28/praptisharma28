@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Django Backend Projects**
 
-- 💬 Ask me about **React, Django, Python, HTML, CSS**
+- 💬 Ask me about **React, Django, Python, HTML, CSS, JS**
 
 - 📫 How to reach me **praptisharma282003@gmail.com**
 
