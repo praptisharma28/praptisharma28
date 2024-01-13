@@ -1,5 +1,8 @@
 [![An image of @praptisharma28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praptisharma28)](https://holopin.io/@praptisharma28)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praptisharma28&label=Profile%20views&color=0e75b6&style=flat" alt="praptisharma28" /> </p>
+
 <h1 align="center">Hi 👋, I'm Prapti Sharma</h1>
 <h3 align="center">A Web Developer from India</h3>
 
