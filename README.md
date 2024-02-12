@@ -17,7 +17,7 @@
 
 - 📫 How to reach me *praptisharma282003@gmail.com*
 
-- ⚡ Fun fact *Loves to swim!!*
+- ⚡ Hobbies *I love to swim!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
