@@ -15,7 +15,7 @@ class FullStackWebDeveloper:
     def __init__(self):
         self.name = "Prapti Sharma"
         self.role = "Full Stack Web Developer👨‍💻"
-        self.favourite_lagugaes = ["Python", "JavaScript"]
+        self.favourite_languages = ["Python", "JavaScript"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
