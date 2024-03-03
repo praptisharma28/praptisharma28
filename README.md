@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praptisharma28" alt="praptisharma28" /></a> </p>
 
 
-- 🌱 I’m currently learning *SQL, APIs*
+- 🌱 I’m currently learning *AWS, Docker, APIs*
 
 - 👯 I’m looking to collaborate on *Django Backend Projects*
 
