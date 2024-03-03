@@ -13,8 +13,8 @@
 class FullStackWebDeveloper:
 
     def __init__(self):
-        self.name = "Prapti Sharma👨‍💻"
-        self.role = "Full Stack Web Developer"
+        self.name = "Prapti Sharma"
+        self.role = "Full Stack Web Developer👨‍💻"
         self.favourite_lagugaes = ["Python", "JavaScript"]
 
     def say_hi(self):
@@ -30,7 +30,7 @@ me.say_hi()
 - 👯 I’m looking to collaborate on **Django Backend Projects**
 - 💬 Ask me about **React, Django, Python, HTML, CSS, JavaScript, C**
 - 📫 How to reach me: [praptisharma282003@gmail.com](mailto:praptisharma282003@gmail.com)
-- ⚡ Fun fact: I love to swim!
+- ⚡ Hobby: **I love to swim!**
 
 ## 🤝Connect with me
 <p align="left">
