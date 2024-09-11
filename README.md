@@ -26,7 +26,7 @@ me.say_hi()
 
 ```
 
-- 🌱 I’m currently working with **OpenWISP** , learning **AWS** and doing **DSA (in python)**.
+- 🌱 I’m currently working with **OpenWISP**, learning **AWS** and doing **DSA (in python)**.
 - 👯 I’m looking to collaborate on **Django Backend Projects**
 - 💬 Ask me about **React, Django, Python, HTML, CSS, JavaScript, C**
 - 📫 How to reach me: [praptisharma282003@gmail.com](mailto:praptisharma282003@gmail.com)
