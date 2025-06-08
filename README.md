@@ -41,12 +41,6 @@ me.say_hi()
   <a href="https://instagram.com/prapti.sharma_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prapti.sharma_" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/praptisharma28" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="praptisharma28" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/cseaiml22b_0082" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cseaiml22b_0082" height="30" width="40" />
-  </a>
 </p>
 
 ## 🔧Languages and Tools
