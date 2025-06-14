@@ -30,6 +30,14 @@ me.say_hi()
 - 📫 How to reach me: [praptisharma282003@gmail.com](mailto:praptisharma282003@gmail.com)
 - ⚡ PS: **I love to swim!**
 
+## ☕ Support Me
+
+If you like my work and want to support it, consider buying me a coffee:
+
+<a href="https://coff.ee/praptisharma" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
+</a>
+
 ## 🤝Connect with me
 <p align="left">
   <a href="https://twitter.com/praptichilling" target="_blank">
