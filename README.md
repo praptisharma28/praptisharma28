@@ -6,8 +6,6 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<h1 align="center">Hi there👋</h1>
-
 ```python
 
 class FullStackWebDeveloper:
@@ -31,8 +29,6 @@ me.say_hi()
 - ⚡ PS: **I love to swim!**
 
 ## ☕ Support Me
-
-If you like my work and want to support it, consider buying me a coffee:
 
 <a href="https://coff.ee/praptisharma" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
