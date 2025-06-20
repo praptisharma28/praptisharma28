@@ -1,10 +1,9 @@
-[![An image of @praptisharma28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praptisharma28)](https://holopin.io/@praptisharma28)
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=praptisharma28&label=Profile%20views&color=0e75b6&style=flat" alt="praptisharma28" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=praptisharma28&label=Profile%20views&color=0e75b6&style=flat" alt="praptisharma28" style="display: inline-block;"/>
+  <a href="https://github.com/ellerbrock/open-source-badge/">
+    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love" style="display: inline-block;"/>
+  </a>
 </p>
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
 
@@ -28,10 +27,8 @@ me.say_hi()
 - 📫 How to reach me: [praptisharma282003@gmail.com](mailto:praptisharma282003@gmail.com)
 - ⚡ PS: **I love to swim!**
 
-## ☕ Support Me
-
 <a href="https://coff.ee/praptisharma" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="30" width="150">
 </a>
 
 ## 🤝Connect with me
@@ -47,7 +44,7 @@ me.say_hi()
   </a>
 </p>
 
-## 🔧Languages and Tools
+## 🔧Languages/Tools
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -129,7 +126,6 @@ me.say_hi()
   </a>
 </p>
 
-## 🗂️ GitHub Stats
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praptisharma28&layout=compact&hide=html&theme=algolia" alt="praptisharma28" width="300" />
 </p>
@@ -137,3 +133,4 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api?username=praptisharma28&show_icons=true&line_height=25&count_private=true&theme=algolia" alt="praptisharma28" width="400" />
 </p>
 
+[![An image of @praptisharma28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praptisharma28)](https://holopin.io/@praptisharma28)
