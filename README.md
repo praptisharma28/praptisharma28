@@ -25,7 +25,7 @@ me.say_hi()
 
 - 🌱 I’m currently into blockchain.
 - 📫 How to reach me: [praptisharma282003@gmail.com](mailto:praptisharma282003@gmail.com)
-- ⚡ PS: **I love to swim!**
+- 🏊 PS: **I love to swim!**
 
 <a href="https://coff.ee/praptisharma" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="30" width="150">
