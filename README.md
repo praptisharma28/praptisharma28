@@ -23,7 +23,7 @@ me.say_hi()
 
 ```
 
-- 🌱 I’m currently into blockchain.
+- 🔗 I’m currently into blockchain.
 - 📫 How to reach me: [praptisharma282003@gmail.com](mailto:praptisharma282003@gmail.com)
 - 🏊 PS: **I love to swim!**
 
