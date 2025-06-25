@@ -127,9 +127,6 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praptisharma28&layout=compact&hide=html&theme=algolia" alt="praptisharma28" width="300" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praptisharma28&show_icons=true&line_height=25&count_private=true&theme=algolia" alt="praptisharma28" width="400" />
 </p>
 
