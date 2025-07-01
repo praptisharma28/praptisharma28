@@ -10,7 +10,7 @@
 struct Dev {
     name: &'static str,
     role: &'static str,
-    skills: [&'static str; 4],
+    langs: [&'static str; 4],
 }
 
 fn main() {
@@ -21,7 +21,7 @@ fn main() {
     };
 
     println!("Hi, I'm {} 👋\n{}", me.name, me.role);
-    println!("I am currently into: {}", me.skills.join(", "));
+    println!("I am currently into: {}", me.langs.join(", "));
 }
 ```
 
