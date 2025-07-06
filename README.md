@@ -52,6 +52,7 @@ fn main() {
 ![Django](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Axum](https://img.shields.io/badge/-Axum-3B275F?style=flat-square&logo=rust&logoColor=white)
 <br>
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
