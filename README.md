@@ -47,6 +47,7 @@ fn main() {
 ![Solana](https://img.shields.io/badge/-Solana-00FFA3?style=flat-square&logo=solana&logoColor=black)
 ![ICP](https://img.shields.io/badge/-ICP-000000?style=flat-square&logo=internet-computer&logoColor=white)
 ![DFINITY](https://img.shields.io/badge/-DFINITY-FE00FE?style=flat-square&logo=internet-computer&logoColor=white)
+![Web3.js](https://img.shields.io/badge/-Web3.js-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 <br>
 ![Django](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
