@@ -78,6 +78,13 @@ fn main() {
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@praptii)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/praptisharma)
 
+### Notable Open Source Contributions
+
+[![Open Source Contributions](https://img.shields.io/badge/-📂%20My%20Open%20Source%20Work-blueviolet?style=for-the-badge)](https://gist.github.com/praptisharma28/YOUR-GIST-ID)
+
+> Click to see my OSS contributions! From a curious beginner to a consistent contributor — still learning, always building. 🚀
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praptisharma28&show_icons=true&count_private=true&theme=algolia&v=2" width="350"/>
 </p>
