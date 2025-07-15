@@ -86,7 +86,7 @@ fn main() {
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praptisharma28&show_icons=true&count_private=true&theme=algolia" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=praptisharma28&show_icons=true&count_private=true&theme=algolia&v2" width="350"/>
 </p>
 
 [![An image of @praptisharma28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praptisharma28)](https://holopin.io/@praptisharma28)
