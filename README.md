@@ -80,7 +80,7 @@ fn main() {
 
 ### Notable Open Source Contributions
 
-[![Open Source Contributions](https://img.shields.io/badge/-📂%20My%20Open%20Source%20Work-blueviolet?style=for-the-badge)](https://gist.github.com/praptisharma28/30e664942138db0abe162f7c8e0aad85)
+[![Open Source Contributions](https://img.shields.io/badge/-🌻%20My%20Open%20Source%20Work-blueviolet?style=for-the-badge)](https://gist.github.com/praptisharma28/30e664942138db0abe162f7c8e0aad85)
 
 > Click to see my OSS contributions! From a curious beginner to a consistent contributor — still learning, always building. 🚀
 
