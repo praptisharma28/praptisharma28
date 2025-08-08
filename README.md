@@ -77,11 +77,11 @@ fn main() {
 
 [![Open Source Contributions](https://img.shields.io/badge/-🌻%20My%20Open%20Source%20Work-blueviolet?style=for-the-badge)](https://gist.github.com/praptisharma28/30e664942138db0abe162f7c8e0aad85)
 
-> Click to see my OSS contributions! From a curious beginner to a consistent contributor — still learning, always building. 🚀
+> Click to see my OSS contributions! 🚀
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praptisharma28&show_icons=true&count_private=true&theme=algolia&v2" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=praptisharma28&show_icons=true&count_private=true&theme=algolia&v2" width="300"/>
 </p>
 
 [![An image of @praptisharma28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praptisharma28)](https://holopin.io/@praptisharma28)
