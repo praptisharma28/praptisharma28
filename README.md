@@ -29,7 +29,7 @@ fn main() {
 - 🏊 PS: I'm a swimmer and absolutely love the water!
 
 <a href="https://coff.ee/praptisharma" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="30" width="150">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="22" width="100">
 </a>
 
 ### Things I code with
@@ -76,9 +76,6 @@ fn main() {
 ### Notable Open Source Contributions
 
 [![Open Source Contributions](https://img.shields.io/badge/-🌻%20My%20Open%20Source%20Work-blueviolet?style=for-the-badge)](https://gist.github.com/praptisharma28/30e664942138db0abe162f7c8e0aad85)
-
-> Click to see my OSS contributions! 🚀
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praptisharma28&show_icons=true&count_private=true&theme=algolia&v2" width="300"/>
