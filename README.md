@@ -32,6 +32,17 @@ fn main() {
   <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="22" width="100">
 </a>
 
+### Have a look at my Proof of Work  
+
+<p align="left">
+  <a href="https://gist.github.com/praptisharma28/30e664942138db0abe162f7c8e0aad85">
+    <img src="https://img.shields.io/badge/-%20Notable%20Open%20Source%20Work-24292f?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://gist.github.com/praptisharma28/27418977042ff37daac7d0b6de930d26">
+    <img src="https://img.shields.io/badge/-%20Proof%20of%20Work-2f3136?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ### Things I code with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -73,17 +84,5 @@ fn main() {
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/prapti.sharma_)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@praptii)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/praptisharma)
-
-### Have a look at my Proof of Work  
-
-<p align="left">
-  <a href="https://gist.github.com/praptisharma28/30e664942138db0abe162f7c8e0aad85">
-    <img src="https://img.shields.io/badge/-%20Notable%20Open%20Source%20Work-24292f?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://gist.github.com/praptisharma28/27418977042ff37daac7d0b6de930d26">
-    <img src="https://img.shields.io/badge/-%20Proof%20of%20Work-2f3136?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
 
 [![An image of @praptisharma28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praptisharma28)](https://holopin.io/@praptisharma28)
