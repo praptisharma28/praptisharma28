@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=praptisharma28&label=Profile%20views&color=0e75b6&style=flat" alt="praptisharma28" style="display: inline-block;"/>
   <a href="https://github.com/ellerbrock/open-source-badge/">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love" style="display: inline-block;"/>
@@ -74,12 +74,16 @@ fn main() {
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@praptii)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/praptisharma)
 
-### Notable Open Source Contributions
+### Please look at my Proof of Work  
 
-[![Open Source Contributions](https://img.shields.io/badge/-🌻%20My%20Open%20Source%20Work-blueviolet?style=for-the-badge)](https://gist.github.com/praptisharma28/30e664942138db0abe162f7c8e0aad85)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praptisharma28&show_icons=true&count_private=true&theme=algolia&v2" width="300"/>
+<p align="left">
+  <a href="https://gist.github.com/praptisharma28/30e664942138db0abe162f7c8e0aad85">
+    <img src="https://img.shields.io/badge/-%20Notable%20Open%20Source%20Work-24292f?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://gist.github.com/praptisharma28/27418977042ff37daac7d0b6de930d26">
+    <img src="https://img.shields.io/badge/-%20Proof%20of%20Work-2f3136?style=flat-square&logo=rust&logoColor=orange" />
+  </a>
 </p>
+
 
 [![An image of @praptisharma28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praptisharma28)](https://holopin.io/@praptisharma28)
