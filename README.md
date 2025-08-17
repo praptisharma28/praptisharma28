@@ -28,10 +28,6 @@ fn main() {
 - 🔗 I’m currently into blockchain.
 - 🏊 PS: I'm a swimmer and absolutely love the water!
 
-<a href="https://coff.ee/praptisharma" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="22" width="100">
-</a>
-
 ### Have a look at my Proof of Work  
 
 <p align="left">
