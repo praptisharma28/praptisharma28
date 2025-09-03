@@ -41,25 +41,15 @@ fn main() {
 
 ### Things I code with
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Motoko](https://img.shields.io/badge/-Motoko-2C2C2C?style=flat-square&logo=mocha&logoColor=white)
-![Web3](https://img.shields.io/badge/-Web3-3C3C3D?style=flat-square&logo=web3dotjs&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/-Hardhat-F9DC3E?style=flat-square&logo=hardhat&logoColor=black)
-![Remix](https://img.shields.io/badge/-Remix-282C34?style=flat-square&logo=remix&logoColor=white)
 ![Solana](https://img.shields.io/badge/-Solana-00FFA3?style=flat-square&logo=solana&logoColor=black)
-![ICP](https://img.shields.io/badge/-ICP-000000?style=flat-square&logo=internet-computer&logoColor=white)
-![DFINITY](https://img.shields.io/badge/-DFINITY-FE00FE?style=flat-square&logo=internet-computer&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Axum](https://img.shields.io/badge/-Axum-3B275F?style=flat-square&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06b6d4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -69,8 +59,6 @@ fn main() {
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praptisharma28&show_icons=true&count_private=true&theme=algolia&v2" width="350"/>
