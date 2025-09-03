@@ -17,7 +17,7 @@ fn main() {
     let me = Dev {
         name: "Prapti Sharma",
         role: "Full Stack Web2 + Web3 Dev 👩‍💻",
-        langs: ["🟦 Solidity", "🐍 Python", "⚡ JavaScript", "🦀 Rust"],
+        langs: ["🐍 Python", "⚡ TypeScript", "🦀 Rust"],
     };
 
     println!("Hi, I'm {} 👋\n{}", me.name, me.role);
