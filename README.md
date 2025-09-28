@@ -10,7 +10,7 @@
 struct Dev {
     name: &'static str,
     role: &'static str,
-    langs: [&'static str; 4],
+    langs: [&'static str; 3],
 }
 
 fn main() {
