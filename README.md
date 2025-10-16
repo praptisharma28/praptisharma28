@@ -37,6 +37,9 @@ fn main() {
   <a href="https://gist.github.com/praptisharma28/27418977042ff37daac7d0b6de930d26">
     <img src="https://img.shields.io/badge/-%20Proof%20of%20Work-2f3136?style=flat-square&logo=github&logoColor=white" />
   </a>
+  <a href="https://github.com/orgs/SolanaContracts/repositories">
+    <img src="https://img.shields.io/badge/-%20All%20my%20Solana%20Smart%20Contracts-2f3136?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ### Things I code with
